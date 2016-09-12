@@ -5,7 +5,7 @@ author_name: 'Byrne Reese'
 author_link: 'http://www.majordojo.com/'
 plugin_link: 'https://github.com/endevver/mt-plugin-photogallery'
 static_version: 9
-version: 2.7.8
+version: 2.7.9
 
 object_types:
     asset.photo: 'MT::Asset::ImagePhoto'
